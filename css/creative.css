@@ -60,6 +60,14 @@ p {
     background-color: #222;
 }
 
+.img-circle-people {
+    border-radius: 50%;
+}
+
+.img-shop {
+    transform: rotate(90deg);
+}
+
 .text-faded {
     color: rgba(255,255,255,.7);
 }
